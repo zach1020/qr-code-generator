@@ -1,2 +1,4 @@
 # qr-code-generator
-A program that generates QR codes
+A program that generates QR codes.
+
+Still developing...
